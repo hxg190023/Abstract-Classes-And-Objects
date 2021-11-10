@@ -20,10 +20,11 @@ My main class, public class CS2336Asg3_HXG190023, will test my GeometricObject c
     instructions.
     
     If the user selects menu choice 4, the program will let the user know that it will exit.
+    
+Notes about the program:
 
-    Notes about the program:
-        - The column widths are set to max of 30 spaces, so if the user side lengths exceed this,
-          then the columns will not be aligned.
+     - The column widths are set to max of 30 spaces, so if the user side lengths exceed this,
+       then the columns will not be aligned.
           
-        - As stated by the instructions, "Reasonable columns for the inputs is 8 to 10 spaces",
-          so mine should work correctly.
+     - As stated by the instructions, "Reasonable columns for the inputs is 8 to 10 spaces",
+       so mine should work correctly.
