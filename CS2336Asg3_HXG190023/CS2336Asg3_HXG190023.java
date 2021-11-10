@@ -1,9 +1,7 @@
 /*
-Name & NET-ID:      Harsh Gopalan - HXG190023
-Class & Section:    CS 2336. 005
-Assignment:         Assignment 3
-Start / End Date:   9/25/2021 - 9/29/2021
-Purpose:            Writing this program for this class to complete Assignment 3.
+Name:               Harsh Gopalan
+
+Assignment:         
 
 General Description of Program:
     This program will instantiate my subclass and test it by creating a GeometricObject Class
